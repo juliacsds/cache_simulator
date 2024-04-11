@@ -1,3 +1,6 @@
 [submodule "Traces/cache_simulator"]
 	path = Traces/cache_simulator
 	url = https://github.com/pranscript/cache_simulator.git
+[submodule "Traces/--force"]
+	path = Traces/--force
+	url = https://github.com/pranscript/cache_simulator
